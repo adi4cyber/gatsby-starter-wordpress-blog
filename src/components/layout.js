@@ -37,9 +37,9 @@ const Layout = ({ isHomePage, children }) => {
       <footer>
         © {new Date().getFullYear()} develop by Adi Prayitno, Built with
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <i>Gatsby</i>
         {` `}
-        And <a href="https://wordpress.org/">WordPress</a>
+        And <a href="https://entris.id/">EntrisCore</a>
       </footer>
     </div>
   )
